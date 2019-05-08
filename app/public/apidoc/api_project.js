@@ -1,0 +1,1 @@
+define({  "name": "九划思维训练（学生版）——接口文档",  "version": "1.0.0",  "description": " ",  "title": "九划思维训练（学生版）——接口文档",  "url": "192.168.6.55:5001/mtt/api",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2019-02-26T03:15:12.164Z",    "url": "http://apidocjs.com",    "version": "0.17.7"  }});
